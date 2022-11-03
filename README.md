@@ -1,8 +1,8 @@
-# <div align="center">Leonardo Moreira Guidorizzi</div>
+# <div align="center">👾Leonardo Moreira Guidorizzi👾</div>
 
 * Tenho interesse em aprender um pouco mais cada dia, o mundo da tecnologia cresce cada vez mais ;
 * Estou fazendo um curso técnico de <strong>Desenvolvimento de Sistemas</strong> no SENAI
-* Apredendo: JavaScript para front-end e back-end, Kotlin e Banco de Dados
+
 
 <div align="center">
   <img height="170em"width="400em" src="https://github-readme-stats.vercel.app/api?username=MalvzMK1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
