@@ -1,7 +1,7 @@
 # <div align="center">👾Leonardo Moreira Guidorizzi👾</div>
 
 * Tenho interesse em aprender um pouco mais cada dia, o mundo da tecnologia cresce cada vez mais ;
-* Estou fazendo um curso técnico de <strong>Desenvolvimento de Sistemas</strong> no SENAI
+* Técnico de <strong>Desenvolvimento de Sistemas</strong> no SENAI
 
 
 <div align="center">
@@ -15,7 +15,6 @@
   <img align="center" alt="Leonardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leonardo-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Leonardo-NODEJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Leonardo-KOTLIN" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
 </div>
 <hr>
 <div align="center">
