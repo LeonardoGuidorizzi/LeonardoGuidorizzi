@@ -2,6 +2,8 @@
 
 * Tenho interesse em aprender um pouco mais cada dia, o mundo da tecnologia cresce cada vez mais ;
 * Técnico de <strong>Desenvolvimento de Sistemas</strong> no SENAI
+* Estudante da Faculdade FIAP
+  
 
 
 <div align="center">
