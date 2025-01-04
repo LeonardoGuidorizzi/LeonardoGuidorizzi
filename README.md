@@ -20,9 +20,9 @@
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGuidorizzi&layout=compact&langs_count=7&theme=dark" alt="Leonardo's Top Languages"/>  
 </div>  
 
-🛠️ Tech Stack  
+🛠️ Tech Stack:
 
-<div align="center">  
+<div style="display: inline_block">  
   <img align="center" alt="Leonardo-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">  
   <img align="center" alt="Leonardo-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript">  
   <img align="center" alt="Leonardo-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">  
