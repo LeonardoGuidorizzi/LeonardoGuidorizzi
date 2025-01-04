@@ -1,7 +1,7 @@
 <div style="display: inline_block"  
   <h1>👩‍💻 Leonardo Moreira Guidorizzi</h1>  
 </div>  
-
+---
 <p style="display: inline_block">
   Constantly learning and growing in the ever-expanding world of technology.  
 </p>  
