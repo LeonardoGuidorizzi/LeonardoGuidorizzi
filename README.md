@@ -13,7 +13,7 @@
   </p>  
 </div>  
 
----
+
 
 <div align="center">  
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=LeonardoGuidorizzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Leonardo's GitHub Stats"/>  
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Tech Stack  
+🛠️ Tech Stack  
 
 <div align="center">  
   <img align="center" alt="Leonardo-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">  
@@ -35,13 +35,7 @@
 
 ---
 
-### 📂 Repositories  
-
-<div align="center">  
-  <a href="https://github.com/LeonardoGuidorizzi" target="_blank">  
-    <img src="https://img.shields.io/badge/-Main%20GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="Main GitHub"/>  
-  </a>  
-  <p>My primary GitHub account, where I share professional projects.</p>  
+📂 Repositories  
 
   <a href="https://github.com/Guid0rizzi" target="_blank">  
     <img src="https://img.shields.io/badge/-Study%20GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="Study GitHub"/>  
@@ -51,7 +45,7 @@
 
 ---
 
-### 📫 Connect  
+📫 Connect  
 
 <div align="center">  
   <a href="mailto:contact.leonardoguidorizzi.moreira@gmail.com">  
