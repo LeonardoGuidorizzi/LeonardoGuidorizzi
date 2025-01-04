@@ -1,19 +1,17 @@
-<div align="center">  
-  <h1>👾 Leonardo Moreira Guidorizzi 👾</h1>  
+<div style="display: inline_block"  
+  <h1>👩‍💻 Leonardo Moreira Guidorizzi</h1>  
 </div>  
 
-<p align="center">
+<p style="display: inline_block">
   Constantly learning and growing in the ever-expanding world of technology.  
 </p>  
 
-<div align="center">  
+<div style="display: inline_block">  
   <p>  
     💻 **Systems Development Technician** at SENAI <br>  
     🎓 Student at **FIAP College**  
   </p>  
 </div>  
-
-
 
 <div style="display: inline_block">  
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=LeonardoGuidorizzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Leonardo's GitHub Stats"/>  
@@ -31,10 +29,6 @@
   <img align="center" alt="Leonardo-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js">  
 </div>  
 
----
-
-📂 Repositories  
-
   <a href="https://github.com/Guid0rizzi" target="_blank">  
     <img src="https://img.shields.io/badge/-Study%20GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="Study GitHub"/>  
   </a>  
@@ -45,7 +39,7 @@
 
 📫 Connect  
 
-<div align="center">  
+<div style="display: inline_block">  
   <a href="mailto:contact.leonardoguidorizzi.moreira@gmail.com">  
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>  
   </a>  
