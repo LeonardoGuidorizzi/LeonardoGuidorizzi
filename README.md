@@ -29,6 +29,11 @@
   <a href="https://www.linkedin.com/in/leonardo-moreira-2a47a523b/" target="_blank">  
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
   </a>  
+  <a href="https://github.com/Guid0rizzi" target="_blank">  
+    <img src="https://img.shields.io/badge/-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>  
+    <span>🌟</span>  
+  </a>  
+  <p>This second GitHub is dedicated to study projects and experimental code!</p>  
 </div>  
 
 
