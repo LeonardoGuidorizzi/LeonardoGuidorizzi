@@ -20,8 +20,6 @@
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGuidorizzi&layout=compact&langs_count=7&theme=dark" alt="Leonardo's Top Languages"/>  
 </div>  
 
----
-
 🛠️ Tech Stack  
 
 <div align="center">  
