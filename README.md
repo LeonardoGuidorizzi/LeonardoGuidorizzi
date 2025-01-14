@@ -38,7 +38,7 @@
   <a href="https://github.com/Guid0rizzi" target="_blank">  
     <img src="https://img.shields.io/badge/-Study%20GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="Study GitHub"/>  
   </a>  
-  <p style="margin-top: 5px;">🌟 This GitHub is dedicated to study projects and experimental code!</p>  
+  <p style="margin-top: 5px;">🌟 This GitHub is dedicated to study projects and experimental code! I'm often there😁</p>  
 </div>  
 
 ---
