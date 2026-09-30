@@ -12,8 +12,6 @@ Currently, I am deepening my knowledge of Java by developing projects with Sprin
 
 ## Tech Stack
 
-<div align="center">
-
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript">
@@ -24,8 +22,6 @@ Currently, I am deepening my knowledge of Java by developing projects with Sprin
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">
-
-</div>
 
 ---
 
@@ -44,13 +40,3 @@ Currently, I am deepening my knowledge of Java by developing projects with Sprin
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 
 </a>
-
-
-
-<a href="https://www.linkedin.com/in/leonardoguidorizzi/" target="_blank">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-
-
-
-
