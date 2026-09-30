@@ -2,8 +2,6 @@
 
 # Leonardo Moreira Guidorizzi
 
----
-
 ### Software Developer
 
 Back-End Developer with 1+ year of experience developing and evolving APIs in production, currently specializing in Java, Spring Boot, AWS, and observability.
