@@ -2,21 +2,17 @@
 
 # Leonardo Moreira Guidorizzi
 
-### Software Developer
-
-Constantly learning and growing in the ever-expanding world of technology.
+---
 
 </div>
 
----
+### Software Developer
 
-## About Me
+Back-End Developer with 1+ year of experience developing and evolving APIs in production, currently specializing in Java, Spring Boot, AWS, and observability.
 
-Systems Development Technician at SENAI.
+My professional experience has been built around developing APIs, system integrations, and improvements to applications already running in production. During this time, I have developed a solid back-end foundation, including data modeling, JWT authentication, software engineering best practices, and a focus on performance and reliability.
 
-Student at FIAP College.
-
-Currently focused on backend development, Java, software architecture, databases and cloud technologies.
+Currently, I am deepening my knowledge of Java by developing projects with Spring Boot and Hexagonal Architecture, while also studying AWS, Kafka, Redis, and observability with Datadog, applying these concepts to practical projects.
 
 ---
 
@@ -49,17 +45,10 @@ Currently focused on backend development, Java, software architecture, databases
 
 </a>
 
-<p>
-This GitHub is dedicated to study projects, experiments and continuous learning.
-</p>
-
 </div>
-
----
 
 ## Connect
 
-<div align="center">
 
 <a href="mailto:contact.leonardoguidorizzi.moreira@gmail.com">
 
@@ -71,9 +60,6 @@ This GitHub is dedicated to study projects, experiments and continuous learning.
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 
-</a>
-
-</div>
 
 
 
