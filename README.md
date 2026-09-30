@@ -25,7 +25,7 @@ Currently, I am deepening my knowledge of Java by developing projects with Sprin
 
 </a>
 
-## Connect
+### Connect
 <div>
 <a href="mailto:contact.leonardoguidorizzi.moreira@gmail.com">
 
