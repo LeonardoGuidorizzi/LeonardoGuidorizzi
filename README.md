@@ -33,7 +33,6 @@ Currently, I am deepening my knowledge of Java by developing projects with Sprin
 
 ## Study Repository
 
-<div align="center">
 
 <a href="https://github.com/Guid0rizzi" target="_blank">
 
@@ -41,7 +40,6 @@ Currently, I am deepening my knowledge of Java by developing projects with Sprin
 
 </a>
 
-</div>
 
 ## Connect
 
