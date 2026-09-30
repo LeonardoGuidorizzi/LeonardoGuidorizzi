@@ -8,9 +8,8 @@ My professional experience has been built around developing APIs, system integra
 
 Currently, I am deepening my knowledge of Java by developing projects with Spring Boot and Hexagonal Architecture, while also studying AWS, Kafka, Redis, and observability with Datadog, applying these concepts to practical projects.
 
----
 
-## Tech Stack
+### Tech Stack
 
 <div>
 
@@ -18,7 +17,7 @@ Currently, I am deepening my knowledge of Java by developing projects with Sprin
 
 </div>
 
-## Study Repository
+### Study Repository
 
 <a href="https://github.com/Guid0rizzi" target="_blank">
 
