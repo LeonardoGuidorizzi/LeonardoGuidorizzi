@@ -1,5 +1,3 @@
-
-
 # Leonardo Moreira Guidorizzi
 
 ### Software Developer
@@ -15,6 +13,7 @@ Currently, I am deepening my knowledge of Java by developing projects with Sprin
 ## Tech Stack
 
 <div align="center">
+
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript">
@@ -26,12 +25,11 @@ Currently, I am deepening my knowledge of Java by developing projects with Sprin
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">
 
-<div/>
+</div>
 
-
+---
 
 ## Study Repository
-
 
 <a href="https://github.com/Guid0rizzi" target="_blank">
 
@@ -39,13 +37,14 @@ Currently, I am deepening my knowledge of Java by developing projects with Sprin
 
 </a>
 
-
 ## Connect
-
 
 <a href="mailto:contact.leonardoguidorizzi.moreira@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+
+</a>
+
 
 
 <a href="https://www.linkedin.com/in/leonardoguidorizzi/" target="_blank">
