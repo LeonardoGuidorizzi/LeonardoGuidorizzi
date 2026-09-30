@@ -1,10 +1,8 @@
-<div align="center">
+
 
 # Leonardo Moreira Guidorizzi
 
 ---
-
-</div>
 
 ### Software Developer
 
@@ -54,7 +52,6 @@ Currently, I am deepening my knowledge of Java by developing projects with Sprin
 
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 
-</a>
 
 <a href="https://www.linkedin.com/in/leonardoguidorizzi/" target="_blank">
 
